@@ -1,2 +1,1 @@
-# SmartPtr
-C++Test
+this is a test!
